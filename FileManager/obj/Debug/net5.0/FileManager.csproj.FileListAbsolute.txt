@@ -1,0 +1,16 @@
+C:\Programming\Peergrades\Peergrade_03\FileManager\bin\Debug\net5.0\FileManager.exe
+C:\Programming\Peergrades\Peergrade_03\FileManager\bin\Debug\net5.0\FileManager.deps.json
+C:\Programming\Peergrades\Peergrade_03\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.json
+C:\Programming\Peergrades\Peergrade_03\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.dev.json
+C:\Programming\Peergrades\Peergrade_03\FileManager\bin\Debug\net5.0\FileManager.dll
+C:\Programming\Peergrades\Peergrade_03\FileManager\bin\Debug\net5.0\ref\FileManager.dll
+C:\Programming\Peergrades\Peergrade_03\FileManager\bin\Debug\net5.0\FileManager.pdb
+C:\Programming\Peergrades\Peergrade_03\FileManager\obj\Debug\net5.0\FileManager.csproj.AssemblyReference.cache
+C:\Programming\Peergrades\Peergrade_03\FileManager\obj\Debug\net5.0\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Peergrades\Peergrade_03\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfoInputs.cache
+C:\Programming\Peergrades\Peergrade_03\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfo.cs
+C:\Programming\Peergrades\Peergrade_03\FileManager\obj\Debug\net5.0\FileManager.csproj.CoreCompileInputs.cache
+C:\Programming\Peergrades\Peergrade_03\FileManager\obj\Debug\net5.0\FileManager.dll
+C:\Programming\Peergrades\Peergrade_03\FileManager\obj\Debug\net5.0\ref\FileManager.dll
+C:\Programming\Peergrades\Peergrade_03\FileManager\obj\Debug\net5.0\FileManager.pdb
+C:\Programming\Peergrades\Peergrade_03\FileManager\obj\Debug\net5.0\FileManager.genruntimeconfig.cache
